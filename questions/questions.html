@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spiritual Temperament Survey - Questions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Spiritual Temperament Survey</h1>
+        </header>
+
+        <main>
+            <div id="survey-container">
+                <div id="question-container">
+                    <h2 id="question-number">Question <span id="current-question">1</span> of 54</h2>
+                    <p id="question-text"></p>
+                    <div id="rating-container">
+                        <span>Strongly Disagree</span>
+                        <label><input type="radio" name="rating" value="1"> 1</label>
+                        <label><input type="radio" name="rating" value="2"> 2</label>
+                        <label><input type="radio" name="rating" value="3"> 3</label>
+                        <label><input type="radio" name="rating" value="4"> 4</label>
+                        <label><input type="radio" name="rating" value="5"> 5</label>
+                        <span>Strongly Agree</span>
+                    </div>
+                </div>
+                <button id="next-button">Next</button>
+            </div>
+
+            <div id="results-container" style="display: none;">
+                <h2>Your Spiritual Temperament Results</h2>
+                <ul id="results-list"></ul>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 Spiritual Temperament Survey. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

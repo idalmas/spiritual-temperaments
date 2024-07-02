@@ -1,0 +1,285 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "text": "I feel closest to God when I'm surrounded by what He has made — the mountains, the forests or the ocean.",
+        "temperament": "Naturalist"
+      },
+      {
+        "id": 2,
+        "text": "I feel cut off if I have to spend too much time indoors, just listening to speakers or singing songs. Nothing makes me feel closer to God than being outside.",
+        "temperament": "Naturalist"
+      },
+      {
+        "id": 3,
+        "text": "I would rather worship God by spending an hour beside a small brook than by participating in a group service.",
+        "temperament": "Naturalist"
+      },
+      {
+        "id": 4,
+        "text": "If I could escape to a garden to pray on a cold day, walk though a meadow on a warm day and take a trip by myself to the mountains on another day, I would be very happy.",
+        "temperament": "Naturalist"
+      },
+      {
+        "id": 5,
+        "text": "A book called Nature's Sanctuaries: A Picture Book would be appealing to me.",
+        "temperament": "Naturalist"
+      },
+      {
+        "id": 6,
+        "text": "Seeing God's beauty in nature is more moving to me than understanding new concepts, participating in a formal religious service or participating in social causes.",
+        "temperament": "Naturalist"
+      },
+      {
+        "id": 7,
+        "text": "I feel closest to God when I'm in a church that allows my senses to come alive — when I can see, smell, hear and almost taste His majesty.",
+        "temperament": "Sensate"
+      },
+      {
+        "id": 8,
+        "text": "I enjoy attending a \"high church\" service with a formal communion.",
+        "temperament": "Sensate"
+      },
+      {
+        "id": 9,
+        "text": "I'd have a difficult time worshiping in a church building that is plain and lacks a sense of awe or majesty. Beauty is very important to me, and I have a difficult time worshiping through second-rate Christian art or music.",
+        "temperament": "Sensate"
+      },
+      {
+        "id": 10,
+        "text": "The words sensuous, colorful and aromatic are very appealing to me.",
+        "temperament": "Sensate"
+      },
+      {
+        "id": 11,
+        "text": "I'm naturally drawn to museums and concerts more than I'm inclined to take a walk in the woods, work in a soup kitchen or read a book by myself.",
+        "temperament": "Sensate"
+      },
+      {
+        "id": 12,
+        "text": "I would really enjoy drawing exercises or classical music playing in the background to improve my prayer life.",
+        "temperament": "Sensate"
+      },
+      {
+        "id": 13,
+        "text": "I feel closest to God when I'm participating in a familiar form of worship that has memories dating back to my childhood. Rituals and traditions move me more than anything else.",
+        "temperament": "Traditionalist"
+      },
+      {
+        "id": 14,
+        "text": "I begin to feel closest to God when I lay something on the altar, sacrificing it for Him.",
+        "temperament": "Traditionalist"
+      },
+      {
+        "id": 15,
+        "text": "The words tradition and history are very appealing to me.",
+        "temperament": "Traditionalist"
+      },
+      {
+        "id": 16,
+        "text": "Participating in a formal liturgy or \"prayer book\" service, developing symbols that I can place in my car, home or office, and developing a Christian calendar for our family to follow are activities I would enjoy.",
+        "temperament": "Traditionalist"
+      },
+      {
+        "id": 17,
+        "text": "A book titled Symbolism and Liturgy in Personal Worship would be appealing to me.",
+        "temperament": "Traditionalist"
+      },
+      {
+        "id": 18,
+        "text": "I would really enjoy developing a personal rule (or ritual) of prayer.",
+        "temperament": "Traditionalist"
+      },
+      {
+        "id": 19,
+        "text": "I feel closest to God when I am cooperating with Him in standing up for His justice: writing letters to government officials and newspaper editors, picketing at a place of injustice, urging people to vote or becoming informed about current issues.",
+        "temperament": "Activist"
+      },
+      {
+        "id": 20,
+        "text": "I get very frustrated if I see apathetic Christians who don't become active. I want to drop everything else I'm doing and help the church overcome its apathy.",
+        "temperament": "Activist"
+      },
+      {
+        "id": 21,
+        "text": "The terms courageous confrontation and social activism are very appealing to me.",
+        "temperament": "Activist"
+      },
+      {
+        "id": 22,
+        "text": "Activities such as confronting a social evil, attending a meeting of the local school board to challenge the new curriculum and volunteering on a political campaign are important to me.",
+        "temperament": "Activist"
+      },
+      {
+        "id": 23,
+        "text": "The book written by Franky Shaeffer, A Time for Anger (or a book like it), would be an important book for me to read.",
+        "temperament": "Activist"
+      },
+      {
+        "id": 24,
+        "text": "I would rather stand in the rain for an hour to confront an evil than sit in a room by myself for an hour and pray, take a walk through the woods or spend an hour reading a book.",
+        "temperament": "Activist"
+      },
+      {
+        "id": 25,
+        "text": "I feel closest to God when I am alone and there is nothing to distract me from focusing on His presence.",
+        "temperament": "Ascetic"
+      },
+      {
+        "id": 26,
+        "text": "I would describe my faith as more \"internal\" than \"external.\"",
+        "temperament": "Ascetic"
+      },
+      {
+        "id": 27,
+        "text": "The words silence, solitude and discipline are very appealing to me.",
+        "temperament": "Ascetic"
+      },
+      {
+        "id": 28,
+        "text": "Taking an overnight retreat by myself at a monastery where I could spend large amounts of time alone in a small room, praying, studying God's Word and fasting for one or more days are all activities I would enjoy.",
+        "temperament": "Ascetic"
+      },
+      {
+        "id": 29,
+        "text": "I would enjoy reading the book A Place Apart: Monastic Prayer and Practice for Everyone.",
+        "temperament": "Ascetic"
+      },
+      {
+        "id": 30,
+        "text": "I would really enjoy spending time on a night watch, taking a short vow of silence or simplifying my life.",
+        "temperament": "Ascetic"
+      },
+      {
+        "id": 31,
+        "text": "I feel closest to God when I see Him in the needy, the poor, the sick and the imprisoned. I feel God's presence most strongly when I am sitting quietly by the bed of someone who is lonely or ill or when I am taking a meal to someone in need. You can count on me to offer a ride or to volunteer for helping activities.",
+        "temperament": "Caregiver"
+      },
+      {
+        "id": 32,
+        "text": "I grow weary of Christians who spend their time singing songs while a sick neighbor goes without a hot meal or a family in need doesn't get help fixing their car.",
+        "temperament": "Caregiver"
+      },
+      {
+        "id": 33,
+        "text": "The words service and compassion are very appealing to me.",
+        "temperament": "Caregiver"
+      },
+      {
+        "id": 34,
+        "text": "I sense God's power when I am counseling a friend who has lost a job, preparing meals for or fixing the car of a family in need, or spending a week at an orphanage in Mexico.",
+        "temperament": "Caregiver"
+      },
+      {
+        "id": 35,
+        "text": "A book titled 99 Ways to Help Your Neighbor would be very appealing to me.",
+        "temperament": "Caregiver"
+      },
+      {
+        "id": 36,
+        "text": "I would rather nurse someone to health or help someone repair someone's house than teach an adult Sunday school class, go on a prayer and fasting retreat or take a lonely walk in the woods.",
+        "temperament": "Caregiver"
+      },
+      {
+        "id": 37,
+        "text": "I feel closest to God when my heart is sent soaring and I feel like I want to burst, worship God all day long and shout out His name. Celebrating God and His love is my favorite form of worship.",
+        "temperament": "Enthusiast"
+      },
+      {
+        "id": 38,
+        "text": "God is an exciting God, and we should be excited about worshiping Him. I don't understand how some Christians can say they love God, and then act like they're going to a funeral whenever they walk into church.",
+        "temperament": "Enthusiast"
+      },
+      {
+        "id": 39,
+        "text": "The words celebration and joy are very appealing to me.",
+        "temperament": "Enthusiast"
+      },
+      {
+        "id": 40,
+        "text": "I would enjoy attending a workshop on learning to worship through dance or a worship session with contemporary music. I expect that God is going to move in some unexpected ways.",
+        "temperament": "Enthusiast"
+      },
+      {
+        "id": 41,
+        "text": "I would enjoy reading the book The Mystery and Excitement of Walking With God.",
+        "temperament": "Enthusiast"
+      },
+      {
+        "id": 42,
+        "text": "I spend more money on music and worship downloads than on books.",
+        "temperament": "Enthusiast"
+      },
+      {
+        "id": 43,
+        "text": "I feel closest to God when my emotions are awakened, when God quietly touches my heart, tells me that He loves me and makes me feel like I'm His closest friend. I would rather be alone with God contemplating His love than participating in a formal liturgy or being distracted by a walk outside.",
+        "temperament": "Contemplative"
+      },
+      {
+        "id": 44,
+        "text": "The most difficult times in my faith are when I can't feel God's presence within me.",
+        "temperament": "Contemplative"
+      },
+      {
+        "id": 45,
+        "text": "The words lover, intimacy and heart are very appealing to me.",
+        "temperament": "Contemplative"
+      },
+      {
+        "id": 46,
+        "text": "I really enjoy having 30 minutes of uninterrupted time each day to sit in quiet prayer and \"hold hands\" with God, writing love letters to Him and enjoying His presence.",
+        "temperament": "Contemplative"
+      },
+      {
+        "id": 47,
+        "text": "I would enjoy reading The Transforming Friendship.",
+        "temperament": "Contemplative"
+      },
+      {
+        "id": 48,
+        "text": "When I think of God, I think of love, friendship and adoration more than anything.",
+        "temperament": "Contemplative"
+      },
+      {
+        "id": 49,
+        "text": "I feel closer to God when I learn something new about Him that I didn't understand before. My mind needs to be stimulated. It's very important to me that I know exactly what I believe.",
+        "temperament": "Intellectual"
+      },
+      {
+        "id": 50,
+        "text": "I get frustrated when the church focuses too much on feelings and spiritual experience. Of far more importance is the need to understand the Christian faith and to have proper doctrine.",
+        "temperament": "Intellectual"
+      },
+      {
+        "id": 51,
+        "text": "The words concepts and truth are very appealing to me.",
+        "temperament": "Intellectual"
+      },
+      {
+        "id": 52,
+        "text": "I feel close to God when I participate in several hours of uninterrupted study time — reading God's Word or good Christian books and then perhaps having an opportunity to teach or participate in a discussion with a small group.",
+        "temperament": "Intellectual"
+      },
+      {
+        "id": 53,
+        "text": "A book on church dogmatics would be appealing to me.",
+        "temperament": "Intellectual"
+      },
+      {
+        "id": 54,
+        "text": "I spend more money on books than music.",
+        "temperament": "Intellectual"
+      }
+    ],
+    "temperaments": [
+      "Naturalist",
+      "Sensate",
+      "Traditionalist",
+      "Activist",
+      "Ascetic",
+      "Caregiver",
+      "Enthusiast",
+      "Contemplative",
+      "Intellectual"
+    ]
+  }

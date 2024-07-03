@@ -3,7 +3,7 @@ let currentQuestionIndex = 0;
 let answers = [];
 
 async function loadQuestions() {
-    const response = await fetch('questions.json');
+    const response = await fetch('./questions.json'); // Corrected path
     const data = await response.json();
     return data.questions;
 }

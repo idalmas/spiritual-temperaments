@@ -70,6 +70,23 @@ function showResults() {
     resultsContainer.style.display = 'block';
 }
 
+document.getElementById('generate-pdf-button').addEventListener('click', () => {
+    generatePDF(sortedTemperaments);
+});
+
+
+function generatePDF(results) {
+const { jsPDF } = window.jspdf;
+const doc = new jsPDF();
+
+doc.text("Your Spiritual Temperament Results", 10, 10);
+results.forEach(([temperament, score], index) => {
+    doc.text(`${temperament}: ${score}`, 10, 20 + (index * 10));
+});
+
+doc.save("results.pdf");
+}
+
 async function initSurvey() {
     questions = await loadQuestions();
     shuffleArray(questions);
